@@ -11,3 +11,4 @@ Dự án này bao gồm một script Python để phát hiện khuôn mặt tron
 Để cài đặt các thư viện cần thiết, hãy chạy lệnh sau trong terminal:
 ```bash
 pip install -r requirements.txt
+python main.py
